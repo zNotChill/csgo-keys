@@ -1,0 +1,34 @@
+bind r +reload;
+bind e +use;
+bind w +forward;
+bind a +left;
+bind s +back;
+bind d +right;
+bind ctrl +duck;
+bind shift +speed;
+bind t +spray_menu;
+bind b buymenu;
+bind z +radialradio2;
+bind m teammenu;
+bind y messagemode;
+
+# A new command: (avoids the character limit)
+
+bind 1 +slot1;
+bind 2 +slot2;
+bind 3 +slot3;
+bind 4 +slot4;
+bind 5 +slot5;
+bind 6 +slot6;
+bind 7 +slot7;
+bind 8 +slot8;
+bind 9 +slot9;
+bind 0 +slot10;
+bind f5 jpeg;
+bind f +lookatweapon;
+bind g drop;
+
+viewmodel_offset_x 2.5;
+viewmodel_offset_y -2;
+viewmodel_offset_z -2;
+viewmodel_fov 60
