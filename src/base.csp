@@ -28,6 +28,8 @@ bind f5 jpeg;
 bind f +lookatweapon;
 bind g drop;
 
+// New Command: (avoids the character limit)
+
 viewmodel_offset_x 2.5;
 viewmodel_offset_y -2;
 viewmodel_offset_z -2;
